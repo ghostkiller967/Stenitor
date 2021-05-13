@@ -18,6 +18,7 @@ There is a function called GetMenuItem which allows you to create your own menu 
 
 ### Main
 You will see this code below the name:
+
 `
 public Main main;
 
@@ -26,6 +27,7 @@ public void GetMain(Form form)
   main = (Main)form;
 }
 `
+
 I recommend not changing anything,
 this will be the main form which you can modify with your plugin.
 
