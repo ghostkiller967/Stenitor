@@ -1,3 +1,6 @@
+# Stenitor
+
+
 ## Plugin Documentation
 
 I apologize in advance for the lack of documentation 
