@@ -28,28 +28,28 @@ public void GetMain(Form form)
 }
 ```
 
-I recommend not changing anything,
-this will be the main form which you can modify with your plugin.
+I recommend not changing anything,  
+this will be the main form which you can modify with your plugin.  
 
-If you were to go into the source code and changing the main form,
-it will result in most likely a crash when you export your plugin.
+If you were to go into the source code and changing the main form,  
+it will result in most likely a crash when you export your plugin.  
 
-The "main" variable will update every 100 milliseconds.
+The "main" variable will update every 100 milliseconds.  
 
-`main.ApplicationPath` will return the path Stenitor is located in.
+`main.ApplicationPath` will return the path Stenitor is located in.  
 
-`main.CurrentLanguage` will return the current set programming language.
+`main.CurrentLanguage` will return the current set programming language.  
 
-`main.GetMonaco(<Tab Index>)` will return the monaco box of the specified tab.
-`<Tab Index>`: which tab you want to get the box from
+`main.GetMonaco(<Tab Index>)` will return the monaco box of the specified tab.  
+`<Tab Index>`: which tab you want to get the box from.  
 
-`main.AddTab(<Content>, <Title>, <Path>)` will add a tab to the tab control.
-`<Content>`: the content the monaco box contains after creation  
-`<Title>`: the text of the tab item  
-`<Path>`: only used for python to know what file to execute  
+`main.AddTab(<Content>, <Title>, <Path>)` will add a tab to the tab control.  
+`<Content>`: the content the monaco box contains after creation.  
+`<Title>`: the text of the tab item.  
+`<Path>`: only used for python to know what file to execute.  
 
 `main.GetText(<Tab Index>)` gets the text of the monaco box of the tab.  
-`<Tab Index>`: the index of what tab you want
+`<Tab Index>`: the index of what tab you want.  
 
 `main.Run()` runs the script of the selected tab if its runnable.  
 
