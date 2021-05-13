@@ -24,7 +24,7 @@ public Main main;
 
 public void GetMain(Form form)
 {
-  main = (Main)form;
+    main = (Main)form;
 }
 ```
 
