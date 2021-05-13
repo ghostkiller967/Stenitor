@@ -3,9 +3,9 @@
 I apologize in advance for the lack of documentation 
 
 ### Name
-You will see this line of code inside the Example Plugin source:
-`public string Name => "Example Plugin";`
-This will be displayed inside the Plugins MenuItem
+You will see this line of code inside the Example Plugin source:  
+`public string Name => "Example Plugin";`  
+This will be displayed inside the Plugins MenuItem  
 
 ### Initialization
 You will see a function called: Init, which will be called when the plugin is loaded (on startup)
