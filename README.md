@@ -17,7 +17,7 @@ There is a function called: `Update`, this function will be called every 100 mil
 There is a function called GetMenuItem which allows you to create your own menu item inside your plugin tool strip item.
 
 ### Main
-You will see this code below the name:
+You will see this piece of code:
 
 ```
 public Main main;
