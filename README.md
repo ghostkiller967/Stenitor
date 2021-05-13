@@ -41,15 +41,15 @@ The "main" variable will update every 100 milliseconds.
 `main.CurrentLanguage` will return the current set programming language.
 
 `main.GetMonaco(<Tab Index>)` will return the monaco box of the specified tab.
-<Tab Index>: which tab you want to get the box from
+`<Tab Index>`: which tab you want to get the box from
 
 `main.AddTab(<Content>, <Title>, <Path>)` will add a tab to the tab control.
-<Content>: the content the monaco box contains after creation
-<Title>: the text of the tab item
-<Path>: only used for python to know what file to execute
+`<Content>`: the content the monaco box contains after creation
+`<Title>`: the text of the tab item
+`<Path>`: only used for python to know what file to execute
 
 `main.GetText(<Tab Index>)` gets the text of the monaco box of the tab.
-<Tab Index>: the index of what tab you want
+`<Tab Index>`: the index of what tab you want
 
 `main.Run()` runs the script of the selected tab if its runnable.
 
