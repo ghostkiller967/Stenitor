@@ -5,16 +5,16 @@ I apologize in advance for the lack of documentation
 ### Name
 You will see this line of code inside the Example Plugin source:  
 `public string Name => "Example Plugin";`  
-This will be displayed inside the Plugins MenuItem  
+This will be displayed inside the Plugins MenuItem.  
 
 ### Initialization
-You will see a function called: `Init`, which will be called when the plugin is loaded (on startup)
+You will see a function called: `Init`, which will be called when the plugin is loaded (on startup).
 
 ### Update
-There is a function called: `Update`, this function will be called every 100 milliseconds
+There is a function called: `Update`, this function will be called every 100 milliseconds.
 
 ### Custom Menu Item
-There is a function called GetMenuItem which allows you to create your own menu item inside your plugin tool strip item
+There is a function called GetMenuItem which allows you to create your own menu item inside your plugin tool strip item.
 
 ### Main
 You will see this code below the name:
