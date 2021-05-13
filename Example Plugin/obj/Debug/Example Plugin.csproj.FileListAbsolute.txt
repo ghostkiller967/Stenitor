@@ -1,0 +1,14 @@
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Example Plugin.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Example Plugin.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\PluginAPI.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Stenitor.exe
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\PluginAPI.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Stenitor.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Stenitor.exe.config
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\obj\Debug\Example Plugin.csprojAssemblyReference.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\obj\Debug\Example Plugin.csproj.CoreCompileInputs.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\obj\Debug\Example Plugin.csproj.CopyComplete
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\obj\Debug\Example Plugin.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\obj\Debug\Example Plugin.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Example Plugin\bin\Debug\Newtonsoft.Json.xml

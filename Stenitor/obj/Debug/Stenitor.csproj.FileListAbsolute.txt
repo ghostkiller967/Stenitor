@@ -1,0 +1,17 @@
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\Stenitor.exe.config
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\Stenitor.exe
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\Stenitor.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.csprojAssemblyReference.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\CustomTabControl.resources
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\MonacoBox.resources
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.Properties.Resources.resources
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.csproj.GenerateResource.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.csproj.CoreCompileInputs.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.exe
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\PluginAPI.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\PluginAPI.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Stenitor.csproj.CopyComplete
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\obj\Debug\Main.resources
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\Stenitor\bin\Debug\Newtonsoft.Json.xml

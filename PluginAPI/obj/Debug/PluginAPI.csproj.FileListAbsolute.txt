@@ -1,0 +1,6 @@
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\bin\Debug\PluginAPI.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\bin\Debug\PluginAPI.pdb
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\obj\Debug\PluginAPI.csprojAssemblyReference.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\obj\Debug\PluginAPI.csproj.CoreCompileInputs.cache
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\obj\Debug\PluginAPI.dll
+C:\Users\stent\Desktop\Programming\Visual Studio\Projects\Stenitor\PluginAPI\obj\Debug\PluginAPI.pdb
