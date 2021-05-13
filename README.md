@@ -44,19 +44,19 @@ The "main" variable will update every 100 milliseconds.
 `<Tab Index>`: which tab you want to get the box from
 
 `main.AddTab(<Content>, <Title>, <Path>)` will add a tab to the tab control.
-`<Content>`: the content the monaco box contains after creation
-`<Title>`: the text of the tab item
-`<Path>`: only used for python to know what file to execute
+`<Content>`: the content the monaco box contains after creation  
+`<Title>`: the text of the tab item  
+`<Path>`: only used for python to know what file to execute  
 
-`main.GetText(<Tab Index>)` gets the text of the monaco box of the tab.
+`main.GetText(<Tab Index>)` gets the text of the monaco box of the tab.  
 `<Tab Index>`: the index of what tab you want
 
-`main.Run()` runs the script of the selected tab if its runnable.
+`main.Run()` runs the script of the selected tab if its runnable.  
 
-`main.OpenFile()` opens the open file dialog for you to select what file to open.
+`main.OpenFile()` opens the open file dialog for you to select what file to open.  
 
-`main.SaveFile()` opens the save file dialog for you to select where to save opened file.
+`main.SaveFile()` opens the save file dialog for you to select where to save opened file.  
 
-`main.NewFile()` opens the save file dialog for you to select where to create a new file.
+`main.NewFile()` opens the save file dialog for you to select where to create a new file.  
 
-`main.ToggleFullscreen()` toggles fullscreen.
+`main.ToggleFullscreen()` toggles fullscreen.  
